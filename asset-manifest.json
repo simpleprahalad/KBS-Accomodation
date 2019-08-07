@@ -1,8 +1,11 @@
 {
-  "main.css": "static/css/main.cd51497e.css",
-  "main.css.map": "static/css/main.cd51497e.css.map",
-  "main.js": "static/js/main.d1f77ed9.js",
-  "main.js.map": "static/js/main.d1f77ed9.js.map",
+  "main.css": "static/css/main.adb65905.css",
+  "main.css.map": "static/css/main.adb65905.css.map",
+  "main.js": "static/js/main.acc8d5b4.js",
+  "main.js.map": "static/js/main.acc8d5b4.js.map",
   "static\\media\\backgrd_1.png": "static/media/backgrd_1.6e4b9ccb.png",
-  "static\\media\\kbs_banner.jpg": "static/media/kbs_banner.f71f9ede.jpg"
+  "static\\media\\citadel.jpg": "static/media/citadel.0f3bbb20.jpg",
+  "static\\media\\holidayInn.png": "static/media/holidayInn.8debf4a6.png",
+  "static\\media\\kbs_banner.jpg": "static/media/kbs_banner.f71f9ede.jpg",
+  "static\\media\\phone.png": "static/media/phone.3ce5cb7a.png"
 }
